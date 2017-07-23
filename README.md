@@ -1,4 +1,5 @@
 # learn-github
 learning sandbox
 
-First commit!
+First commit: check.
+First push with Terminal: check.
