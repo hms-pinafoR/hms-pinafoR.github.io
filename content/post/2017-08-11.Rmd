@@ -1,0 +1,17 @@
+---
+title: "First post!"
+author: "Harper Sealy"
+date: "2017-08-11"
+categories: ["R"]
+tags: ["R Markdown"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# First post!
+
+R is turning out to be nicer than I thought! I feel welcomed into R Markdown, `dplyr`, and friends.
+
+I will have actual content in this post soon, but just to get this far with `blogdown` is enough for now.
