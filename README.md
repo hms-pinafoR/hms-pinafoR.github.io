@@ -1,5 +1,2 @@
-# learn-github
-learning sandbox
-
-First commit: check.
-First push with Terminal: check.
+# My website
+Powered by blogdown
